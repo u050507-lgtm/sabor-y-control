@@ -1,0 +1,6 @@
+{
+  "name": "Sabor y Control - Gestión de Taquería",
+  "description": "Sistema profesional de gestión de taquerías para administración, cocineros y meseros con alertas y comandas en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
